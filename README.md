@@ -1,8 +1,8 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
-
 <!--start: description-->
 
-**Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues. It's made with 💚 by your friends at [Koj](https://koj.co).
+This repository contains the open-source uptime monitor and status page for my projects, powered by [Upptime](https://github.com/upptime/upptime).
+
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. It uses [Issues](https://github.com/lakejason0/status/issues) as incident reports, [Actions](https://github.com/lakejason0/status/actions) as uptime monitors, and [Pages](https://lakejason0.github.io/status) for the status page.
 
 <!--end: description-->
 
