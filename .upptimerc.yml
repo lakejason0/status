@@ -78,6 +78,7 @@ i18n:
   errorIntro: 尝试拉取最新的状态细节时发生了错误。
   errorText: 请稍后再试。
   errorHome: 带我回家
+  url: "https://lakejason0.github.com/status"
   status: "状态"
   history: "历史"
   responseTime: "延迟时间"
