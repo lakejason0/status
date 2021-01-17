@@ -1,21 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: lakejason0 # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+  - name: 存档计划（MediaWiki）
+    url: https://files.lakejason0.ml
+  - name: Lake桑的存档馆（WordPress.com）
+    url: https://lakejason0.wordpress.com
+  - name: 静态主页
+    url: https://lakejason0.ml
+  - name: Lake桑的存档馆（GitHub.io）
+    url: https://lakejason0.github.io
+  - name: 存档计划（Wiki.js）（未启用）
     url: $SECRET_SITE
 
 status-website:
