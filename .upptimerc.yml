@@ -23,7 +23,7 @@ status-website:
   cname: status.lakejason0.ml
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://files.lakejason0.ml/images/6/6f/Logo.svg
   name: 存档计划 - 服务状态
   introTitle: "欢迎来到 Project Archive Service Status。"
   introMessage: 您可以在这个第三方服务中查看我所有 Web 服务的运作情况。
