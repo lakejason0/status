@@ -37,7 +37,6 @@ status-website:
 
 i18n:
   activeIncidents: 活跃事故
-  allSystemsOperational: 所有系统均正常
   incidentReport: "#$NUMBER 号事故报告 →"
   activeIncidentSummary: 开始于 $DATE · 有 $POSTS 则跟进
   incidentTitle: "#$NUMBER 号事故细节"
@@ -59,9 +58,6 @@ i18n:
   averageResponseTimeTitle: 平均延迟
   sevelDayResponseTime: 延迟时间（7 天）图表
   responseTimeMs: 延迟时间（毫秒）
-  up: 在线
-  down: 宕机
-  degraded: 部分
   ms: ms
   loading: 加载中
   navGitHub: GitHub
@@ -82,6 +78,27 @@ i18n:
   errorIntro: 尝试拉取最新的状态细节时发生了错误。
   errorText: 请稍后再试。
   errorHome: 带我回家
+  status: "状态"
+  history: "历史"
+  responseTime: "延迟时间"
+  up: "🟩 正常"
+  degraded: "🟨 出现问题"
+  down: "🟥 下线"
+  responseTimeGraphAlt: "延迟时间图表"
+  responseTimeDay: "24小时延迟时间"
+  responseTimeWeek: "7天延迟时间"
+  responseTimeMonth: "30天延迟时间"
+  responseTimeYear: "1年延迟时间"
+  uptime: "全时段在线时间"
+  uptimeDay: "24小时在线时间"
+  uptimeWeek: "7天在线时间"
+  uptimeMonth: "30天在线时间"
+  uptimeYear: "1年在线时间"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 所有系统均正常"
+  degradedPerformance: "🟨 性能降级"
+  completeOutage: "🟥 服务完全中断"
+  partialOutage: "🟧 服务部分中断"
 
 
 # Upptime also supports notifications, assigning issues, and more
