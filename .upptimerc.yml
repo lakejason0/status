@@ -96,7 +96,7 @@ i18n:
   uptimeMonth: "30天在线时间"
   uptimeYear: "1年在线时间"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 所有系统均正常"
+  allSystemsOperational: "所有系统均正常"
   degradedPerformance: "🟨 性能降级"
   completeOutage: "🟥 服务完全中断"
   partialOutage: "🟧 服务部分中断"
