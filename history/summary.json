@@ -4,19 +4,19 @@
     "url": "https://files.lakejason0.ml",
     "icon": "https://favicons.githubusercontent.com/files.lakejason0.ml",
     "slug": "media-wiki",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2149,
-    "timeDay": 3113,
-    "timeWeek": 2149,
-    "timeMonth": 2149,
-    "timeYear": 2149,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 2159,
+    "timeDay": 2705,
+    "timeWeek": 2159,
+    "timeMonth": 2159,
+    "timeYear": 2159,
     "dailyMinutesDown": {
-      "2021-01-23": 1
+      "2021-01-23": 55
     }
   },
   {
