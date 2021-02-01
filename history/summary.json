@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/files.lakejason0.ml",
     "slug": "media-wiki",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 2210,
     "timeDay": 2086,
     "timeWeek": 2294,
@@ -24,9 +24,9 @@
     "url": "https://lakejason0.wordpress.com",
     "icon": "https://favicons.githubusercontent.com/lakejason0.wordpress.com",
     "slug": "lake-word-press-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 733,
     "timeMonth": 642,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-01": 0
+    }
   },
   {
     "name": "静态主页（Static）",
