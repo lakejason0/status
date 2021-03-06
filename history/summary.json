@@ -63,19 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/lakejason0.github.io",
     "slug": "lake-git-hub-io",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 264,
     "timeDay": 4501,
     "timeWeek": 1224,
     "timeMonth": 424,
     "timeYear": 264,
-    "dailyMinutesDown": {
-      "2021-03-05": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "存档计划（Wiki.js）（未启用）",
