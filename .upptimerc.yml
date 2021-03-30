@@ -105,7 +105,16 @@ i18n:
   duration30D: 30天
   duration1Y: 1年
   durationAll: 全时段
-
+  pastScheduledMaintenance: 过去计划的维护
+  scheduledMaintenance: 已计划的维护
+  scheduledMaintenanceSummaryStarted: 开始于$DATE，持续$DURATION分钟
+  scheduledMaintenanceSummaryStarts: 开始于$DATE，持续$DURATION分钟
+  startedAt: 开始于
+  startsAt: 开始于
+  duration: 持续时间
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 已计划
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
