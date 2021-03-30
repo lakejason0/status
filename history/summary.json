@@ -1,8 +1,8 @@
 [
   {
     "name": "存档计划（MediaWiki）",
-    "url": "https://files.lakejason0.ml",
-    "icon": "https://favicons.githubusercontent.com/files.lakejason0.ml",
+    "url": "https://lakeus.xyz",
+    "icon": "https://favicons.githubusercontent.com/lakeus.xyz",
     "slug": "media-wiki",
     "status": "up",
     "uptime": "99.95%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 2338,
-    "timeDay": 3761,
-    "timeWeek": 3015,
-    "timeMonth": 2581,
-    "timeYear": 2338,
+    "time": 2336,
+    "timeDay": 3219,
+    "timeWeek": 2927,
+    "timeMonth": 2568,
+    "timeYear": 2336,
     "dailyMinutesDown": {
       "2021-01-23": 55
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 582,
-    "timeDay": 487,
-    "timeWeek": 528,
-    "timeMonth": 561,
-    "timeYear": 582,
+    "time": 581,
+    "timeDay": 474,
+    "timeWeek": 519,
+    "timeMonth": 557,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2021-03-15": 18,
       "2021-02-01": 58
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
-    "time": 938,
-    "timeDay": 1173,
-    "timeWeek": 1017,
-    "timeMonth": 977,
-    "timeYear": 938,
+    "time": 939,
+    "timeDay": 1131,
+    "timeWeek": 1021,
+    "timeMonth": 980,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2021-03-15": 18,
       "2021-02-01": 58,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 75,
-    "timeWeek": 89,
-    "timeMonth": 384,
-    "timeYear": 215,
+    "time": 214,
+    "timeDay": 98,
+    "timeWeek": 95,
+    "timeMonth": 377,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1956,
-    "timeDay": 3273,
-    "timeWeek": 2335,
-    "timeMonth": 2286,
-    "timeYear": 1956,
+    "time": 1946,
+    "timeDay": 2547,
+    "timeWeek": 2211,
+    "timeMonth": 2252,
+    "timeYear": 1946,
     "dailyMinutesDown": {}
   }
 ]
