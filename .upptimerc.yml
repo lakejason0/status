@@ -5,7 +5,7 @@ repo: status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: 存档计划（MediaWiki）
-    url: https://files.lakejason0.ml
+    url: https://lakeus.xyz
   - name: Lake桑的存档馆（WordPress.com）
     url: https://lakejason0.wordpress.com
   - name: 静态主页（Static）
