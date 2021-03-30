@@ -36,11 +36,11 @@ status-website:
       href: https://files.lakejason0.ml
 
 i18n:
-  activeIncidents: 活跃事故
-  incidentReport: "#$NUMBER 号事故报告 →"
+  activeIncidents: 活跃事件
+  incidentReport: "#$NUMBER 号事件报告 →"
   activeIncidentSummary: 开始于 $DATE · 有 $POSTS 则跟进
-  incidentTitle: "#$NUMBER 号事故细节"
-  incidentDetails: 事故细节
+  incidentTitle: "#$NUMBER 号事件细节"
+  incidentDetails: 事件细节
   incidentFixed: 已修复
   incidentOngoing: 持续中
   incidentOpenedAt: 开始于
@@ -48,8 +48,8 @@ i18n:
   incidentSubscribe: 关注跟进
   incidentViewOnGitHub: 在 GitHub 上查看
   incidentCommentSummary: $DATE · $AUTHOR
-  incidentBack: ← 返回至所有事故
-  pastIncidents: 过去的事故
+  incidentBack: ← 返回至所有事件
+  pastIncidents: 过去的事件
   pastIncidentsResolved: 解决时间 $MINUTES 分钟 · $POSTS 则跟进
   liveStatus: 实时状态
   overallUptime: "总计在线时间：$UPTIME"
