@@ -12,6 +12,8 @@ sites:
     url: https://lakejason0.ml
   - name: Lake桑的存档馆（GitHub.io）
     url: https://lakejason0.github.io
+  - name: 湖远星的Miraheze试验场
+    url: htt[s://lakeus.miraheze.org
   - name: 存档计划（Wiki.js）（未启用）
     url: $SECRET_SITE
 
