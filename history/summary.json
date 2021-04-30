@@ -4,17 +4,17 @@
     "url": "https://lakeus.xyz",
     "icon": "https://favicons.githubusercontent.com/lakeus.xyz",
     "slug": "media-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2445,
-    "timeDay": 2735,
-    "timeWeek": 2947,
-    "timeMonth": 2711,
-    "timeYear": 2445,
+    "time": 2433,
+    "timeDay": 1777,
+    "timeWeek": 2711,
+    "timeMonth": 2651,
+    "timeYear": 2433,
     "dailyMinutesDown": {
       "2021-01-23": 55
     }
@@ -33,7 +33,7 @@
     "time": 607,
     "timeDay": 564,
     "timeWeek": 662,
-    "timeMonth": 664,
+    "timeMonth": 673,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2021-03-15": 18,
@@ -54,7 +54,7 @@
     "time": 941,
     "timeDay": 1030,
     "timeWeek": 914,
-    "timeMonth": 952,
+    "timeMonth": 947,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -108,7 +108,7 @@
     "time": 2296,
     "timeDay": 3152,
     "timeWeek": 3046,
-    "timeMonth": 3111,
+    "timeMonth": 3170,
     "timeYear": 2296,
     "dailyMinutesDown": {}
   }
