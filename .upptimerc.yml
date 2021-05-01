@@ -35,7 +35,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: 返回存档计划（MediaWiki）
-      href: https://files.lakejason0.ml
+      href: https://lakeus.xyz
 
 i18n:
   activeIncidents: 活跃事件
