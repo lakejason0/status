@@ -99,17 +99,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wiki-js",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2866,
-    "timeDay": 5570,
-    "timeWeek": 5586,
-    "timeMonth": 4785,
-    "timeYear": 2866,
+    "time": 2930,
+    "timeDay": 9893,
+    "timeWeek": 6665,
+    "timeMonth": 5054,
+    "timeYear": 2930,
     "dailyMinutesDown": {}
   }
 ]
