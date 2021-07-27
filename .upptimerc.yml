@@ -92,7 +92,7 @@ i18n:
   responseTimeWeek: "7天延迟时间"
   responseTimeMonth: "30天延迟时间"
   responseTimeYear: "1年延迟时间"
-  uptime: "全时段在线时间"
+  uptime: "在线时间"
   uptimeDay: "24小时在线时间"
   uptimeWeek: "7天在线时间"
   uptimeMonth: "30天在线时间"
