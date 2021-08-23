@@ -4,17 +4,17 @@
     "url": "https://lakeus.xyz",
     "icon": "https://favicons.githubusercontent.com/lakeus.xyz",
     "slug": "media-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 3775,
-    "timeDay": 4409,
-    "timeWeek": 7028,
-    "timeMonth": 5390,
-    "timeYear": 3775,
+    "time": 3783,
+    "timeDay": 5210,
+    "timeWeek": 7155,
+    "timeMonth": 5407,
+    "timeYear": 3783,
     "dailyMinutesDown": {
       "2021-01-23": 55
     }
