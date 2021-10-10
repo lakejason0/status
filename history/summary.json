@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 4345,
     "timeDay": 2760,
-    "timeWeek": 2329,
+    "timeWeek": 2368,
     "timeMonth": 6324,
     "timeYear": 4345,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
     "url": "https://lakeus.miraheze.org",
     "icon": "https://favicons.githubusercontent.com/lakeus.miraheze.org",
     "slug": "miraheze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
