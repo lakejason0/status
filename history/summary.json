@@ -13,7 +13,7 @@
     "time": 4248,
     "timeDay": 2477,
     "timeWeek": 2122,
-    "timeMonth": 4421,
+    "timeMonth": 4402,
     "timeYear": 4248,
     "dailyMinutesDown": {
       "2021-01-23": 55
@@ -45,7 +45,7 @@
     "url": "https://lakejason0.ml",
     "icon": "https://favicons.githubusercontent.com/lakejason0.ml",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
