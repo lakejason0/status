@@ -42,7 +42,7 @@
     "url": "https://lakejason0.ml",
     "icon": "https://favicons.githubusercontent.com/lakejason0.ml",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 1312,
     "timeDay": 213,
-    "timeWeek": 566,
+    "timeWeek": 407,
     "timeMonth": 807,
     "timeYear": 1312,
     "dailyMinutesDown": {}
