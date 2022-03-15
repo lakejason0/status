@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4133,
-    "timeDay": 2647,
-    "timeWeek": 2185,
-    "timeMonth": 2136,
-    "timeYear": 4435,
+    "time": 4129,
+    "timeDay": 1877,
+    "timeWeek": 2162,
+    "timeMonth": 2132,
+    "timeYear": 4434,
     "dailyMinutesDown": {}
   },
   {
@@ -29,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
-    "timeDay": 506,
-    "timeWeek": 712,
-    "timeMonth": 700,
+    "timeDay": 709,
+    "timeWeek": 741,
+    "timeMonth": 698,
     "timeYear": 720,
-    "dailyMinutesDown": {
-      "2021-03-15": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "静态主页（Static）",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1324,
-    "timeDay": 952,
-    "timeWeek": 1664,
-    "timeMonth": 1348,
-    "timeYear": 1385,
+    "time": 1323,
+    "timeDay": 825,
+    "timeWeek": 1590,
+    "timeMonth": 1349,
+    "timeYear": 1384,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 35,
-    "timeWeek": 109,
-    "timeMonth": 94,
+    "timeDay": 135,
+    "timeWeek": 111,
+    "timeMonth": 98,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1299,
-    "timeDay": 893,
-    "timeWeek": 884,
-    "timeMonth": 801,
-    "timeYear": 1299,
+    "time": 1296,
+    "timeDay": 924,
+    "timeWeek": 656,
+    "timeMonth": 782,
+    "timeYear": 1296,
     "dailyMinutesDown": {}
   }
 ]
