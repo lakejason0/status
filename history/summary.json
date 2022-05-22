@@ -76,17 +76,17 @@
     "url": "https://lakeus.miraheze.org",
     "icon": "https://favicons.githubusercontent.com/lakeus.miraheze.org",
     "slug": "miraheze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 271,
-    "timeWeek": 595,
-    "timeMonth": 1035,
-    "timeYear": 1275,
+    "time": 1261,
+    "timeDay": 463,
+    "timeWeek": 602,
+    "timeMonth": 1023,
+    "timeYear": 1273,
     "dailyMinutesDown": {}
   }
 ]
