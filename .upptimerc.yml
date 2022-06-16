@@ -12,8 +12,6 @@ sites:
     url: https://lakejason0.ml
   - name: Lake桑的存档馆（GitHub.io）
     url: https://lakejason0.github.io
-  - name: 湖远星的Miraheze试验场
-    url: https://lakeus.miraheze.org
 
 assignees:
   - lakejason0
