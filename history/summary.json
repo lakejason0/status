@@ -14,7 +14,7 @@
     "timeDay": 2002,
     "timeWeek": 2102,
     "timeMonth": 2278,
-    "timeYear": 3496,
+    "timeYear": 3442,
     "dailyMinutesDown": {}
   },
   {
@@ -40,16 +40,16 @@
     "url": "https://lakejason0.ml",
     "icon": "https://favicons.githubusercontent.com/lakejason0.ml",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1356,
+    "time": 1357,
     "timeDay": 1112,
     "timeWeek": 1093,
-    "timeMonth": 1510,
+    "timeMonth": 1394,
     "timeYear": 1247,
     "dailyMinutesDown": {}
   },
