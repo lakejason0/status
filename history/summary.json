@@ -4,18 +4,20 @@
     "url": "https://lakeus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3316,
+    "time": 3310,
     "timeDay": 2290,
     "timeWeek": 2422,
     "timeMonth": 2405,
     "timeYear": 3082,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-18": 2
+    }
   },
   {
     "name": "Lake桑的存档馆（WordPress.com）",
@@ -40,18 +42,20 @@
     "url": "https://lakejason0.ml",
     "icon": "https://icons.duckduckgo.com/ip3/lakejason0.ml.ico",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
+    "time": 1248,
     "timeDay": 1046,
     "timeWeek": 1073,
     "timeMonth": 1366,
     "timeYear": 1180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-18": 0
+    }
   },
   {
     "name": "Lake桑的存档馆（GitHub.io）",
