@@ -10,10 +10,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 3299,
-    "timeDay": 2781,
-    "timeWeek": 2529,
-    "timeMonth": 2435,
+    "time": 3296,
+    "timeDay": 2625,
+    "timeWeek": 2459,
+    "timeMonth": 2415,
     "timeYear": 3082,
     "dailyMinutesDown": {
       "2023-03-18": 16
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 765,
-    "timeWeek": 575,
-    "timeMonth": 616,
+    "time": 670,
+    "timeDay": 477,
+    "timeWeek": 634,
+    "timeMonth": 628,
     "timeYear": 640,
     "dailyMinutesDown": {}
   },
@@ -44,18 +44,16 @@
     "slug": "static",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1026,
-    "timeWeek": 1065,
-    "timeMonth": 1355,
+    "time": 1247,
+    "timeDay": 872,
+    "timeWeek": 991,
+    "timeMonth": 1349,
     "timeYear": 1179,
-    "dailyMinutesDown": {
-      "2023-03-18": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lake桑的存档馆（GitHub.io）",
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 25,
-    "timeWeek": 69,
-    "timeMonth": 87,
+    "timeDay": 133,
+    "timeWeek": 83,
+    "timeMonth": 89,
     "timeYear": 94,
     "dailyMinutesDown": {}
   }
