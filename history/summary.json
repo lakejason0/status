@@ -42,18 +42,20 @@
     "url": "https://lakejason0.ml",
     "icon": "https://icons.duckduckgo.com/ip3/lakejason0.ml.ico",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1245,
+    "time": 1244,
     "timeDay": 952,
     "timeWeek": 987,
     "timeMonth": 1222,
     "timeYear": 1179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-20": 0
+    }
   },
   {
     "name": "Lake桑的存档馆（GitHub.io）",
