@@ -42,11 +42,11 @@
     "url": "https://lakejason0.ml",
     "icon": "https://icons.duckduckgo.com/ip3/lakejason0.ml.ico",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1290,
     "timeDay": 1086,
@@ -54,7 +54,7 @@
     "timeMonth": 1151,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2023-03-22": 10,
+      "2023-03-22": 0,
       "2023-03-20": 37
     }
   },
