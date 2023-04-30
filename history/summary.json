@@ -6,17 +6,16 @@
     "slug": "media-wiki",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 2871,
-    "timeDay": 2168,
-    "timeWeek": 2303,
-    "timeMonth": 2628,
-    "timeYear": 3122,
+    "timeDay": 2346,
+    "timeWeek": 2274,
+    "timeMonth": 2630,
+    "timeYear": 3123,
     "dailyMinutesDown": {
-      "2023-04-29": 9,
       "2023-04-18": 42,
       "2023-03-18": 16
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 561,
-    "timeWeek": 635,
-    "timeMonth": 572,
-    "timeYear": 630,
+    "time": 655,
+    "timeDay": 430,
+    "timeWeek": 587,
+    "timeMonth": 567,
+    "timeYear": 629,
     "dailyMinutesDown": {}
   },
   {
@@ -51,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1263,
-    "timeDay": 738,
-    "timeWeek": 1090,
-    "timeMonth": 1057,
-    "timeYear": 1212,
+    "timeDay": 1079,
+    "timeWeek": 1100,
+    "timeMonth": 1064,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2023-03-23": 36,
       "2023-03-20": 37
@@ -72,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 109,
-    "timeWeek": 53,
-    "timeMonth": 90,
-    "timeYear": 93,
+    "timeDay": 24,
+    "timeWeek": 51,
+    "timeMonth": 87,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   }
 ]
