@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**查看站点状态 →**](https://status.lakejason0.ml)
+[**查看站点状态 →**](https://status.lakeus.xyz)
 
 ## 📄 许可协议
 
