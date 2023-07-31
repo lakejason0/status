@@ -18,7 +18,7 @@ assignees:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.lakejason0.ml
+  cname: status.lakeus.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
   logoUrl: https://lakeus.xyz/images/6/6f/Logo.svg
