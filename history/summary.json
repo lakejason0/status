@@ -36,19 +36,19 @@
     "url": "https://lakejason0.wordpress.com",
     "icon": "https://icons.duckduckgo.com/ip3/lakejason0.wordpress.com.ico",
     "slug": "lake-word-press-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 21,
-    "timeWeek": 29,
-    "timeMonth": 55,
-    "timeYear": 543,
+    "time": 550,
+    "timeDay": 48,
+    "timeWeek": 38,
+    "timeMonth": 56,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 16
     }
   },
   {
