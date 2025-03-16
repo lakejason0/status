@@ -113,6 +113,7 @@ i18n:
   durationMin: $DURATION 分钟
   incidentCompleted: 已完成
   incidentScheduled: 已计划
+  locale: zh-CN
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
