@@ -1,6 +1,7 @@
 # Change these first
 owner: lakejason0 # Your GitHub username
 repo: status # Your GitHub repository name
+user-agent: "Upptime/$UA_UNIQUE (+github@lakejason0)"
 
 # Add your sites here
 sites:
