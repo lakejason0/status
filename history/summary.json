@@ -6,17 +6,17 @@
     "slug": "media-wiki",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 1364,
     "timeDay": 919,
     "timeWeek": 3294,
-    "timeMonth": 1931,
+    "timeMonth": 1948,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2025-09-24": 77,
+      "2025-09-24": 64,
       "2025-09-23": 15,
       "2025-09-21": 18,
       "2025-09-20": 60,
@@ -72,7 +72,7 @@
     "time": 107,
     "timeDay": 140,
     "timeWeek": 148,
-    "timeMonth": 99,
+    "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2025-06-09": 30
@@ -92,7 +92,7 @@
     "time": 886,
     "timeDay": 789,
     "timeWeek": 745,
-    "timeMonth": 893,
+    "timeMonth": 898,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2025-07-11": 102,
@@ -147,7 +147,7 @@
     "time": 129,
     "timeDay": 184,
     "timeWeek": 159,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 119,
     "dailyMinutesDown": {}
   }
