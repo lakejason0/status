@@ -6,17 +6,17 @@
     "slug": "media-wiki",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.12%",
-    "time": 1365,
-    "timeDay": 941,
-    "timeWeek": 3302,
-    "timeMonth": 1864,
+    "time": 1364,
+    "timeDay": 929,
+    "timeWeek": 2232,
+    "timeMonth": 1863,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2025-09-28": 26,
+      "2025-09-28": 17,
       "2025-09-27": 29,
       "2025-09-25": 55,
       "2025-09-24": 64,
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 186,
-    "timeWeek": 164,
+    "timeDay": 56,
+    "timeWeek": 155,
     "timeMonth": 111,
-    "timeYear": 102,
+    "timeYear": 101,
     "dailyMinutesDown": {
       "2025-06-09": 30
     }
@@ -91,11 +91,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.49%",
-    "time": 886,
-    "timeDay": 748,
-    "timeWeek": 753,
-    "timeMonth": 892,
+    "uptimeYear": "95.55%",
+    "time": 885,
+    "timeDay": 455,
+    "timeWeek": 731,
+    "timeMonth": 881,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2025-07-11": 102,
@@ -130,8 +130,7 @@
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
-      "2024-09-30": 1440,
-      "2024-09-29": 1440
+      "2024-09-30": 1440
     }
   },
   {
@@ -146,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 158,
-    "timeWeek": 190,
-    "timeMonth": 150,
+    "timeDay": 142,
+    "timeWeek": 191,
+    "timeMonth": 153,
     "timeYear": 119,
     "dailyMinutesDown": {}
   }
