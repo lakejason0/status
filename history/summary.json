@@ -6,15 +6,15 @@
     "slug": "media-wiki",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.11%",
-    "time": 1361,
-    "timeDay": 737,
-    "timeWeek": 1009,
-    "timeMonth": 1829,
-    "timeYear": 1308,
+    "time": 1357,
+    "timeDay": 650,
+    "timeWeek": 987,
+    "timeMonth": 1851,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2025-09-30": 16,
       "2025-09-29": 17,
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 89,
-    "timeWeek": 139,
-    "timeMonth": 111,
-    "timeYear": 101,
+    "timeDay": 203,
+    "timeWeek": 154,
+    "timeMonth": 119,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2025-06-09": 30
     }
@@ -89,15 +89,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.84%",
+    "uptimeYear": "96.10%",
     "time": 887,
-    "timeDay": 1178,
-    "timeWeek": 763,
-    "timeMonth": 900,
+    "timeDay": 823,
+    "timeWeek": 796,
+    "timeMonth": 905,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2025-07-11": 102,
@@ -130,8 +130,7 @@
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
-      "2024-10-02": 1440,
-      "2024-10-01": 1440
+      "2024-10-02": 1440
     }
   },
   {
@@ -145,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 71,
-    "timeWeek": 159,
-    "timeMonth": 150,
-    "timeYear": 119,
+    "time": 130,
+    "timeDay": 194,
+    "timeWeek": 170,
+    "timeMonth": 154,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   }
 ]
