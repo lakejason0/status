@@ -6,13 +6,13 @@
     "slug": "media-wiki",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.11%",
     "time": 1357,
-    "timeDay": 650,
-    "timeWeek": 987,
+    "timeDay": 848,
+    "timeWeek": 999,
     "timeMonth": 1851,
     "timeYear": 1306,
     "dailyMinutesDown": {
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 203,
-    "timeWeek": 154,
+    "timeDay": 47,
+    "timeWeek": 141,
     "timeMonth": 119,
-    "timeYear": 102,
+    "timeYear": 101,
     "dailyMinutesDown": {
       "2025-06-09": 30
     }
@@ -93,12 +93,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.10%",
+    "uptimeYear": "96.37%",
     "time": 887,
-    "timeDay": 823,
-    "timeWeek": 796,
-    "timeMonth": 905,
-    "timeYear": 945,
+    "timeDay": 792,
+    "timeWeek": 797,
+    "timeMonth": 757,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2025-07-11": 102,
       "2025-06-20": 61,
@@ -129,8 +129,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   },
   {
@@ -144,10 +143,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 194,
-    "timeWeek": 170,
-    "timeMonth": 154,
+    "time": 122,
+    "timeDay": 98,
+    "timeWeek": 157,
+    "timeMonth": 148,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
