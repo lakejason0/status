@@ -8,13 +8,13 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "98.93%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "99.11%",
-    "time": 1355,
-    "timeDay": 1083,
-    "timeWeek": 1098,
-    "timeMonth": 1906,
-    "timeYear": 1296,
+    "time": 1354,
+    "timeDay": 782,
+    "timeWeek": 1079,
+    "timeMonth": 1786,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2025-10-05": 32,
       "2025-09-30": 16,
@@ -76,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 96,
-    "timeWeek": 100,
-    "timeMonth": 123,
+    "timeDay": 94,
+    "timeWeek": 108,
+    "timeMonth": 125,
     "timeYear": 102,
     "dailyMinutesDown": {
       "2025-06-09": 30
@@ -90,15 +90,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "99.11%",
     "time": 887,
-    "timeDay": 811,
-    "timeWeek": 802,
-    "timeMonth": 770,
+    "timeDay": 631,
+    "timeWeek": 776,
+    "timeMonth": 763,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2025-07-11": 102,
@@ -120,8 +120,7 @@
       "2025-01-19": 54,
       "2025-01-09": 62,
       "2024-12-28": 511,
-      "2024-10-13": 250,
-      "2024-10-12": 1440
+      "2024-10-13": 250
     }
   },
   {
@@ -136,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 125,
-    "timeWeek": 95,
-    "timeMonth": 143,
+    "timeDay": 119,
+    "timeWeek": 104,
+    "timeMonth": 145,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
