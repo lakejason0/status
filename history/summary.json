@@ -4,7 +4,7 @@
     "url": "https://lakeus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "93.79%",
     "uptimeWeek": "98.61%",
@@ -80,8 +80,7 @@
       "2025-09-20": 60,
       "2025-09-19": 29,
       "2025-09-17": 37,
-      "2025-09-13": 38,
-      "2025-09-12": 21
+      "2025-09-13": 38
     }
   },
   {
