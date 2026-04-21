@@ -4,18 +4,19 @@
     "url": "https://lakeus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.95%",
-    "uptimeYear": "98.14%",
+    "uptimeYear": "98.15%",
     "time": 1349,
     "timeDay": 56,
     "timeWeek": 222,
     "timeMonth": 306,
     "timeYear": 1401,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2026-04-13": 121,
       "2026-04-11": 175,
       "2026-04-10": 37,
@@ -82,8 +83,7 @@
       "2025-10-17": 41,
       "2025-10-14": 20,
       "2025-10-05": 32,
-      "2025-09-30": 16,
-      "2025-09-29": 17
+      "2025-09-30": 16
     }
   },
   {
