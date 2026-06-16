@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
     "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "83.41%",
+    "uptime": "97.96%",
+    "uptimeDay": "25.81%",
     "uptimeWeek": "15.01%",
     "uptimeMonth": "36.79%",
-    "uptimeYear": "89.14%",
-    "time": 1237,
-    "timeDay": 42,
+    "uptimeYear": "88.94%",
+    "time": 1236,
+    "timeDay": 17,
     "timeWeek": 109,
-    "timeMonth": 133,
-    "timeYear": 1265,
+    "timeMonth": 132,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2025-10-29": 32,
       "2025-10-30": 26,
@@ -114,7 +114,8 @@
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
-      "2026-06-15": 0
+      "2026-06-16": 319,
+      "2026-06-15": 749
     }
   },
   {
@@ -128,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
+    "time": 115,
     "timeDay": 77,
-    "timeWeek": 69,
-    "timeMonth": 84,
-    "timeYear": 117,
+    "timeWeek": 75,
+    "timeMonth": 81,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2025-11-16": 20
     }
@@ -143,16 +144,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
     "status": "down",
-    "uptime": "96.67%",
-    "uptimeDay": "83.43%",
+    "uptime": "96.63%",
+    "uptimeDay": "25.82%",
     "uptimeWeek": "15.01%",
     "uptimeMonth": "37.00%",
-    "uptimeYear": "89.97%",
+    "uptimeYear": "89.77%",
     "time": 720,
-    "timeDay": 176,
-    "timeWeek": 144,
-    "timeMonth": 200,
-    "timeYear": 644,
+    "timeDay": 17,
+    "timeWeek": 143,
+    "timeMonth": 199,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2025-06-20": 61,
       "2025-07-11": 102,
@@ -218,7 +219,8 @@
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
-      "2026-06-15": 0
+      "2026-06-16": 319,
+      "2026-06-15": 749
     }
   },
   {
@@ -233,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 128,
-    "timeWeek": 94,
-    "timeMonth": 104,
+    "timeDay": 205,
+    "timeWeek": 113,
+    "timeMonth": 107,
     "timeYear": 136,
     "dailyMinutesDown": {}
   }
