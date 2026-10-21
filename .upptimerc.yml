@@ -2,6 +2,8 @@
 owner: lakejason0 # Your GitHub username
 repo: status # Your GitHub repository name
 
+user-agent: upptime/lakejason0
+
 # Add your sites here
 sites:
   - name: 存档计划（MediaWiki）
