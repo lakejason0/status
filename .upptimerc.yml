@@ -7,7 +7,12 @@ user-agent: upptime/lakejason0
 # Add your sites here
 sites:
   - name: 存档计划（MediaWiki）
-    url: https://lakeus.xyz
+    slug: media-wiki
+    url: "https://lakeus.xyz/api.php?action=query&meta=siteinfo&format=json"
+    method: GET
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"generator":"MediaWiki'
   - name: Lake桑的存档馆（WordPress.com）
     url: https://lakejason0.wordpress.com
   - name: 静态主页（Static）
