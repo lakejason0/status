@@ -1,7 +1,7 @@
 url: https://lakeus.xyz/api.php?action=query&meta=siteinfo&format=json
-status: up
-code: 200
-responseTime: 908
-lastUpdated: 2026-11-13T03:02:29.233Z
+status: down
+code: 522
+responseTime: 20322
+lastUpdated: 2026-11-13T18:45:26.063Z
 startTime: 2021-01-17T03:38:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
