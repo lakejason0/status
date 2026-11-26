@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
     "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "96.47%",
-    "uptimeYear": "78.97%",
+    "uptime": "96.36%",
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "96.02%",
+    "uptimeYear": "78.94%",
     "time": 1005,
-    "timeDay": 494,
+    "timeDay": 26,
     "timeWeek": 3121,
     "timeMonth": 2112,
     "timeYear": 740,
@@ -148,7 +148,7 @@
       "2026-11-17": 564,
       "2026-11-23": 203,
       "2026-11-22": 134,
-      "2026-11-26": 0
+      "2026-11-26": 200
     }
   },
   {
@@ -163,7 +163,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 100,
+    "timeDay": 24,
     "timeWeek": 93,
     "timeMonth": 97,
     "timeYear": 110,
@@ -176,12 +176,12 @@
     "slug": "static",
     "status": "down",
     "uptime": "94.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "96.67%",
+    "uptimeDay": "86.12%",
+    "uptimeWeek": "94.69%",
     "uptimeMonth": "50.12%",
-    "uptimeYear": "77.68%",
+    "uptimeYear": "77.64%",
     "time": 667,
-    "timeDay": 415,
+    "timeDay": 26,
     "timeWeek": 2964,
     "timeMonth": 1963,
     "timeYear": 536,
@@ -297,7 +297,7 @@
       "2026-11-17": 563,
       "2026-11-23": 203,
       "2026-11-22": 133,
-      "2026-11-26": 0
+      "2026-11-26": 200
     }
   },
   {
@@ -312,7 +312,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 84,
+    "timeDay": 40,
     "timeWeek": 133,
     "timeMonth": 129,
     "timeYear": 126,
