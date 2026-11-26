@@ -4,17 +4,17 @@
     "url": "https://lakeus.xyz/api.php?action=query&meta=siteinfo&format=json",
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "96.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.66%",
-    "uptimeMonth": "96.48%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "78.97%",
-    "time": 1007,
-    "timeDay": 962,
-    "timeWeek": 3246,
-    "timeMonth": 2113,
-    "timeYear": 742,
+    "time": 1005,
+    "timeDay": 494,
+    "timeWeek": 3121,
+    "timeMonth": 2112,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2025-11-29": 20,
       "2025-12-04": 24,
@@ -147,7 +147,8 @@
       "2026-11-13": 315,
       "2026-11-17": 564,
       "2026-11-23": 203,
-      "2026-11-22": 134
+      "2026-11-22": 134,
+      "2026-11-26": 0
     }
   },
   {
@@ -162,8 +163,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 175,
-    "timeWeek": 101,
+    "timeDay": 100,
+    "timeWeek": 93,
     "timeMonth": 97,
     "timeYear": 110,
     "dailyMinutesDown": {}
@@ -173,17 +174,17 @@
     "url": "https://static.lakeus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "94.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.67%",
-    "uptimeMonth": "47.31%",
+    "uptimeMonth": "50.12%",
     "uptimeYear": "77.68%",
-    "time": 668,
-    "timeDay": 803,
-    "timeWeek": 3195,
-    "timeMonth": 1964,
-    "timeYear": 538,
+    "time": 667,
+    "timeDay": 415,
+    "timeWeek": 2964,
+    "timeMonth": 1963,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2026-01-24": 948,
       "2026-01-23": 363,
@@ -295,7 +296,8 @@
       "2026-11-13": 313,
       "2026-11-17": 563,
       "2026-11-23": 203,
-      "2026-11-22": 133
+      "2026-11-22": 133,
+      "2026-11-26": 0
     }
   },
   {
@@ -310,9 +312,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 127,
-    "timeWeek": 140,
-    "timeMonth": 131,
+    "timeDay": 84,
+    "timeWeek": 133,
+    "timeMonth": 129,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
