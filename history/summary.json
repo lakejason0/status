@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
     "status": "down",
-    "uptime": "96.36%",
+    "uptime": "96.35%",
     "uptimeDay": "71.35%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "78.90%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "95.07%",
+    "uptimeYear": "78.86%",
     "time": 984,
     "timeDay": 599,
     "timeWeek": 2818,
@@ -149,7 +149,7 @@
       "2026-11-23": 203,
       "2026-11-22": 134,
       "2026-11-26": 416,
-      "2026-11-27": 0
+      "2026-11-27": 198
     }
   },
   {
@@ -176,11 +176,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
     "status": "down",
-    "uptime": "94.77%",
+    "uptime": "94.76%",
     "uptimeDay": "71.36%",
-    "uptimeWeek": "92.55%",
+    "uptimeWeek": "90.59%",
     "uptimeMonth": "52.46%",
-    "uptimeYear": "77.60%",
+    "uptimeYear": "77.57%",
     "time": 635,
     "timeDay": 479,
     "timeWeek": 2667,
@@ -299,7 +299,7 @@
       "2026-11-23": 203,
       "2026-11-22": 133,
       "2026-11-26": 416,
-      "2026-11-27": 0
+      "2026-11-27": 198
     }
   },
   {
