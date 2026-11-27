@@ -4,17 +4,17 @@
     "url": "https://lakeus.xyz/api.php?action=query&meta=siteinfo&format=json",
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
-    "status": "down",
-    "uptime": "96.35%",
-    "uptimeDay": "71.35%",
-    "uptimeWeek": "90.57%",
-    "uptimeMonth": "95.07%",
-    "uptimeYear": "78.86%",
+    "status": "up",
+    "uptime": "96.34%",
+    "uptimeDay": "67.91%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "94.47%",
+    "uptimeYear": "78.81%",
     "time": 984,
-    "timeDay": 599,
-    "timeWeek": 2818,
-    "timeMonth": 2086,
-    "timeYear": 740,
+    "timeDay": 793,
+    "timeWeek": 2692,
+    "timeMonth": 2073,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-11-29": 20,
       "2025-12-04": 24,
@@ -149,7 +149,7 @@
       "2026-11-23": 203,
       "2026-11-22": 134,
       "2026-11-26": 416,
-      "2026-11-27": 198
+      "2026-11-27": 462
     }
   },
   {
@@ -175,17 +175,17 @@
     "url": "https://static.lakeus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
-    "status": "down",
+    "status": "up",
     "uptime": "94.76%",
-    "uptimeDay": "71.36%",
-    "uptimeWeek": "90.59%",
+    "uptimeDay": "67.92%",
+    "uptimeWeek": "87.97%",
     "uptimeMonth": "52.46%",
-    "uptimeYear": "77.57%",
+    "uptimeYear": "77.52%",
     "time": 635,
-    "timeDay": 479,
-    "timeWeek": 2667,
-    "timeMonth": 1936,
-    "timeYear": 535,
+    "timeDay": 430,
+    "timeWeek": 2483,
+    "timeMonth": 1908,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2026-01-24": 948,
       "2026-01-23": 363,
@@ -299,7 +299,7 @@
       "2026-11-23": 203,
       "2026-11-22": 133,
       "2026-11-26": 416,
-      "2026-11-27": 198
+      "2026-11-27": 462
     }
   },
   {
