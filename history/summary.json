@@ -4,17 +4,17 @@
     "url": "https://lakeus.xyz/api.php?action=query&meta=siteinfo&format=json",
     "icon": "https://icons.duckduckgo.com/ip3/lakeus.xyz.ico",
     "slug": "media-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "96.36%",
-    "uptimeDay": "71.13%",
-    "uptimeWeek": "92.54%",
+    "uptimeDay": "71.35%",
+    "uptimeWeek": "92.53%",
     "uptimeMonth": "95.53%",
     "uptimeYear": "78.90%",
-    "time": 986,
-    "timeDay": 602,
-    "timeWeek": 2905,
-    "timeMonth": 2088,
-    "timeYear": 741,
+    "time": 984,
+    "timeDay": 599,
+    "timeWeek": 2818,
+    "timeMonth": 2086,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2025-11-29": 20,
       "2025-12-04": 24,
@@ -148,7 +148,8 @@
       "2026-11-17": 564,
       "2026-11-23": 203,
       "2026-11-22": 134,
-      "2026-11-26": 416
+      "2026-11-26": 416,
+      "2026-11-27": 0
     }
   },
   {
@@ -163,9 +164,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 24,
-    "timeWeek": 93,
-    "timeMonth": 97,
+    "timeDay": 27,
+    "timeWeek": 86,
+    "timeMonth": 95,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -174,17 +175,17 @@
     "url": "https://static.lakeus.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/static.lakeus.xyz.ico",
     "slug": "static",
-    "status": "up",
+    "status": "down",
     "uptime": "94.77%",
-    "uptimeDay": "71.15%",
+    "uptimeDay": "71.36%",
     "uptimeWeek": "92.55%",
-    "uptimeMonth": "50.12%",
+    "uptimeMonth": "52.46%",
     "uptimeYear": "77.60%",
-    "time": 667,
-    "timeDay": 477,
-    "timeWeek": 2737,
-    "timeMonth": 1937,
-    "timeYear": 537,
+    "time": 635,
+    "timeDay": 479,
+    "timeWeek": 2667,
+    "timeMonth": 1936,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2026-01-24": 948,
       "2026-01-23": 363,
@@ -297,7 +298,8 @@
       "2026-11-17": 563,
       "2026-11-23": 203,
       "2026-11-22": 133,
-      "2026-11-26": 416
+      "2026-11-26": 416,
+      "2026-11-27": 0
     }
   },
   {
@@ -312,9 +314,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 40,
-    "timeWeek": 133,
-    "timeMonth": 129,
+    "timeDay": 50,
+    "timeWeek": 115,
+    "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
